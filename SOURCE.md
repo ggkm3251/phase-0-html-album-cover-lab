@@ -22,4 +22,4 @@ PHARRELLWILLIAMS.COM
 
 COLUMBIARECORDS.COM
 
-[sony-logo.png]
+[https://s3.amazonaws.com/learn-verified/columbia-logo.png
